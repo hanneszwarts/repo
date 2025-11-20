@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight Bullish",
-  "Long Entry": "Long Entry: 50250",
-  "Short Entry": "Short Entry: 50550",
-  "Long SL": "Long SL: 49650",
-  "Short SL": "Short SL: 50900",
-  "Long TP": "Long TP: 51250",
-  "Short TP": "Short TP: 48800",
-  "MacroInfluence": "Mixed: rising US CPI supports risk assets (bullish) while high Fed rate is a headwind; net mildly bullish for equities.",
-  "NewsImpact": "Mostly neutral headlines; notable negative geopolitical/business item (China vs Japan) is mildly bearish for Japan, otherwise limited market-moving news.",
-  "Notes": "Long on reclaim above 50250 with SL below recent swing low; short only on rejection into the 50550 area (stop above the spike highs). Keep position size small and manage intraday volatility.",
-  "Timestamp": "2025-11-20 13:23:28"
+  "Bias": "Neutral — watch breakouts: bullish above resistance, bearish below support",
+  "Long Entry": "Long Entry: 50380",
+  "Short Entry": "Short Entry: 48880",
+  "Long SL": "Long SL: 49900",
+  "Short SL": "Short SL: 49250",
+  "Long TP": "Long TP: 51050",
+  "Short TP": "Short TP: 48200",
+  "MacroInfluence": "Rising US CPI and weaker USD provide support for risk assets while a high Fed rate is a headwind — slight net bullish bias.",
+  "NewsImpact": "Mixed: China-Japan tensions are a negative for Japanese equities; other headlines mostly neutral — expect elevated volatility.",
+  "Notes": "Wait for a confirmed 1H close beyond entry before entering. Size to risk ≤1–2% equity, trail stops on follow-through, avoid entering into major news spikes.",
+  "Timestamp": "2025-11-20 13:23:58"
 }
