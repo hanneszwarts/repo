@@ -1,13 +1,13 @@
 {
   "Bias": "Slightly Bullish",
   "Long Entry": "Long Entry: 60.10",
-  "Short Entry": "Short Entry: 59.05",
-  "Long SL": "Long SL: 59.40",
-  "Short SL": "Short SL: 59.60",
-  "Long TP": "Long TP: 60.95",
+  "Short Entry": "Short Entry: 58.95",
+  "Long SL": "Long SL: 59.30",
+  "Short SL": "Short SL: 59.50",
+  "Long TP": "Long TP: 61.00",
   "Short TP": "Short TP: 58.20",
-  "MacroInfluence": "Rising US CPI is bullish for oil, but a high Fed rate is a headwind — net mixed with a slight bullish tilt.",
-  "NewsImpact": "Supply flows to India and regional oil deals add a mild bullish tilt; no clear large downside news.",
-  "Notes": "Long on confirmed breakout above 60.10 with tight SL; short on breakdown below 59.05. Size to risk management; watch intraday volume and CPI follow-through.",
-  "Timestamp": "2025-11-20 13:41:13"
+  "MacroInfluence": "Rising US CPI and a softer USD support oil upside while a high Fed rate is a bearish headwind — net slightly bullish bias.",
+  "NewsImpact": "WTI tumble/oversupply headlines are bearish short-term; most other headlines neutral.",
+  "Notes": "Only take the side that triggers: buy breakout above 60.10 with SL 59.30, or short breakdown below 58.95 with SL 59.50. Keep position size small and respect stops.",
+  "Timestamp": "2025-11-20 15:46:23"
 }
