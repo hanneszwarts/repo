@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bearish",
-  "Long Entry": "Long Entry: 8060",
-  "Short Entry": "Short Entry: 7970",
-  "Long SL": "Long SL: 7990",
-  "Short SL": "Short SL: 8045",
-  "Long TP": "Long TP: 8150",
-  "Short TP": "Short TP: 7880",
-  "MacroInfluence": "Mixed: rising CPI and weaker USD support equities, but high Fed rate is a headwind — overall slightly bearish",
-  "NewsImpact": "Tech-led selloff and European weakness dominate headlines → negative near-term sentiment",
-  "Notes": "Only take trades on confirmed breakout/breakdown candle closes; keep position size to defined risk and monitor CPI/Nvidia events",
-  "Timestamp": "2025-11-20 15:51:04"
+  "Bias": "Slightly Bearish",
+  "Long Entry": "Long Entry: 7985",
+  "Short Entry": "Short Entry: 8055",
+  "Long SL": "Long SL: 7935",
+  "Short SL": "Short SL: 8085",
+  "Long TP": "Long TP: 8085",
+  "Short TP": "Short TP: 7970",
+  "MacroInfluence": "Rising US CPI supports risk assets but high Fed rate and tech valuation concerns keep a mild downward pressure.",
+  "NewsImpact": "Tech/AI-led selloff and negative European sentiment increase downside risk in the near term.",
+  "Notes": "1H setups only: long on support bounce (~7947–7985), short on rejection at resistance (~8050–8060). Keep risk per trade limited, adjust sizes if volatility rises.",
+  "Timestamp": "2025-11-20 15:57:36"
 }
