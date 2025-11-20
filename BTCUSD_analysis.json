@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bearish",
-  "Long Entry": "Long Entry: 94200",
-  "Short Entry": "Short Entry: 96400",
-  "Long SL": "Long SL: 93700",
-  "Short SL": "Short SL: 96900",
-  "Long TP": "Long TP: 96200",
-  "Short TP": "Short TP: 93600",
-  "MacroInfluence": "Rising CPI provides some bullish risk appetite but high Fed rate is a headwind; USD slightly weak — net mixed, slight bullish tilt but capped upside.",
-  "NewsImpact": "Headlines are largely neutral for crypto; no clear bullish catalysts and some negative equity tone — limited directional news impact.",
-  "Notes": "Day-trade setups: long as a dip to support (~94200) with tight stop; short on rejection at recent highs (~96400). Manage position size, watch liquidity and macro prints.",
-  "Timestamp": "2025-11-17 05:00:00"
+  "Bias": "Leaning Bullish (range-bound; watch 92.8–93.1k resistance)",
+  "Long Entry": "Long Entry: 93050",
+  "Short Entry": "Short Entry: 92850",
+  "Long SL": "Long SL: 92300",
+  "Short SL": "Short SL: 93400",
+  "Long TP": "Long TP: 94800",
+  "Short TP": "Short TP: 90500",
+  "MacroInfluence": "Rising CPI provides tailwind for BTC while a still-high Fed rate is a headwind; net neutral-to-slightly bullish given mild USD weakness.",
+  "NewsImpact": "Mixed: ETF/MtGox FUD and bearish headlines weigh on sentiment but HODLer resilience and some positive crypto/altcoin news offer support.",
+  "Notes": "Trade plan: prefer breakout long above 93.05k with stop at 92.3k; alternatively short on clear rejection at 92.85k with tight stop. Size positions to risk small % per trade; invalidated if stops hit or macro news changes suddenly.",
+  "Timestamp": "2025-11-20 13:42:52"
 }
