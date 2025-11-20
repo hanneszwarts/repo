@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish",
-  "Long Entry": "Long Entry: 23450",
-  "Short Entry": "Short Entry: 23120",
+  "Bias": "Slightly Bullish (range-breakout bias)",
+  "Long Entry": "Long Entry: 23460",
+  "Short Entry": "Short Entry: 23150",
   "Long SL": "Long SL: 23320",
-  "Short SL": "Short SL: 23260",
-  "Long TP": "Long TP: 23700",
+  "Short SL": "Short SL: 23340",
+  "Long TP": "Long TP: 23680",
   "Short TP": "Short TP: 22900",
-  "MacroInfluence": "Mixed: rising CPI and weak USD support equity upside, but elevated Fed rate is a headwind.",
-  "NewsImpact": "News flow is mostly neutral; earnings/tech rotation headlines add mild sector-specific volatility but no strong directional bias.",
-  "Notes": "Preferred plan: take long on confirmed breakout above recent highs (23450) with SL under breakout; take short only on clean breakdown below 23120. Keep position size limited and watch EU session for volatility.",
-  "Timestamp": "2025-11-20 12:00:00"
+  "MacroInfluence": "Rising US CPI supports risk assets, weak USD is mildly bullish; high Fed rate is a headwind — overall mixed but slightly bullish.",
+  "NewsImpact": "Mixed headlines (inflation, credit/AI risk and regional data) produce two-way flows; no single strong directional catalyst.",
+  "Notes": "Trade only on confirmed breakout/breakdown. Keep position size small, aim for ~1:2–1:3 R:R, move SL to breakeven if price moves favorably.",
+  "Timestamp": "2025-11-20 13:38:54"
 }
