@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight Bullish",
-  "Long Entry": "Long Entry: 4085",
-  "Short Entry": "Short Entry: 4125",
-  "Long SL": "Long SL: 4050",
-  "Short SL": "Short SL: 4150",
-  "Long TP": "Long TP: 4130",
-  "Short TP": "Short TP: 4040",
-  "MacroInfluence": "Rising US CPI and a relatively weak USD support gold; elevated Fed rate limits upside — net slight bullish bias.",
-  "NewsImpact": "Mixed/neutral headlines; some Fed-related risk-off tone but no fresh catalyst to drive large moves.",
-  "Notes": "Long on confirmed 1H breakout above resistance; short on clear rejection at the 4115-4130 zone. Respect SLs and size for ~1:1.2–1.5 RR.",
-  "Timestamp": "2025-11-20 09:10:00"
+  "Bias": "Neutral-to-Bullish",
+  "Long Entry": "Long Entry: 4116",
+  "Short Entry": "Short Entry: 4035",
+  "Long SL": "Long SL: 4090",
+  "Short SL": "Short SL: 4075",
+  "Long TP": "Long TP: 4175",
+  "Short TP": "Short TP: 3970",
+  "MacroInfluence": "Rising US CPI and a softer USD support gold, while elevated Fed rates act as a headwind—net slightly bullish.",
+  "NewsImpact": "News flow is mixed/neutral; some headlines highlight Fed-rate concerns which increases caution for trend-following longs.",
+  "Notes": "Take long only on a clean breakout and hold above 4116 (stop 4090). Short on decisive breakdown below 4035 (stop 4075). Apply position sizing to limit risk and monitor US session volatility.",
+  "Timestamp": "2025-11-20 09:15:00"
 }
