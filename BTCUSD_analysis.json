@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish",
-  "Long Entry": "Long Entry: 96480",
-  "Short Entry": "Short Entry: 93750",
-  "Long SL": "Long SL: 95700",
-  "Short SL": "Short SL: 94750",
-  "Long TP": "Long TP: 98900",
-  "Short TP": "Short TP: 91500",
-  "MacroInfluence": "Mixed: rising CPI is mildly bullish for BTC, but elevated Fed rate and USD strength are headwinds.",
-  "NewsImpact": "Mostly neutral to slightly negative; headlines are mixed with no clear crypto-specific catalyst.",
-  "Notes": "1H setups only: long on clean breakout above the recent high; short on breakdown below horizontal support. Keep R:R ~1:2, adjust size to risk tolerance.",
-  "Timestamp": "12:00"
+  "Bias": "Neutral-to-Bearish",
+  "Long Entry": "Long Entry: 94200",
+  "Short Entry": "Short Entry: 96400",
+  "Long SL": "Long SL: 93700",
+  "Short SL": "Short SL: 96900",
+  "Long TP": "Long TP: 96200",
+  "Short TP": "Short TP: 93600",
+  "MacroInfluence": "Rising CPI provides some bullish risk appetite but high Fed rate is a headwind; USD slightly weak — net mixed, slight bullish tilt but capped upside.",
+  "NewsImpact": "Headlines are largely neutral for crypto; no clear bullish catalysts and some negative equity tone — limited directional news impact.",
+  "Notes": "Day-trade setups: long as a dip to support (~94200) with tight stop; short on rejection at recent highs (~96400). Manage position size, watch liquidity and macro prints.",
+  "Timestamp": "2025-11-17 05:00:00"
 }
