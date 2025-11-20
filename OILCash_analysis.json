@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish (favor breakout above 60.05; watch for breakdown below 59.25)",
-  "Long Entry": "Long Entry: 60.05",
-  "Short Entry": "Short Entry: 59.20",
-  "Long SL": "Long SL: 59.25",
-  "Short SL": "Short SL: 60.05",
-  "Long TP": "Long TP: 61.20",
-  "Short TP": "Short TP: 58.30",
-  "MacroInfluence": "US CPI up supports commodity inflation bullish; high Fed rate is a headwind; USD modestly weak — net slight bullish bias for oil.",
-  "NewsImpact": "Mixed: geopolitical/supply risk (Russia) and regional energy deals provide upside risk; most headlines neutral.",
-  "Notes": "Wait for confirmed 1H breakout/rejection candle before entry; size to risk; tighter management around macro releases.",
-  "Timestamp": "2025-11-20 12:00:00"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 60.10",
+  "Short Entry": "Short Entry: 59.05",
+  "Long SL": "Long SL: 59.40",
+  "Short SL": "Short SL: 59.60",
+  "Long TP": "Long TP: 60.95",
+  "Short TP": "Short TP: 58.20",
+  "MacroInfluence": "Rising US CPI is bullish for oil, but a high Fed rate is a headwind — net mixed with a slight bullish tilt.",
+  "NewsImpact": "Supply flows to India and regional oil deals add a mild bullish tilt; no clear large downside news.",
+  "Notes": "Long on confirmed breakout above 60.10 with tight SL; short on breakdown below 59.05. Size to risk management; watch intraday volume and CPI follow-through.",
+  "Timestamp": "2025-11-20 13:41:13"
 }
