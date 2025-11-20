@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish",
-  "Long Entry": "Long Entry: 50400",
-  "Short Entry": "Short Entry: 49200",
-  "Long SL": "Long SL: 49900",
-  "Short SL": "Short SL: 49750",
-  "Long TP": "Long TP: 51200",
-  "Short TP": "Short TP: 48600",
-  "MacroInfluence": "Rising US CPI and weak USD support risk assets, but a still-high Fed rate limits upside — net mildly bullish for JP225.",
-  "NewsImpact": "Mixed headlines: positive AI/tech sentiment and cautious Asian markets offset by a damaging local fire — slight near-term uncertainty.",
-  "Notes": "Wait for confirmed 1H close beyond entry before committing; size to risk ≤1-2% of capital; watch for volatility around US tech earnings and session gaps.",
-  "Timestamp": "2025-11-20 08:00:00 SAST"
+  "Bias": "Slight Bullish",
+  "Long Entry": "Long Entry: 50250",
+  "Short Entry": "Short Entry: 50550",
+  "Long SL": "Long SL: 49650",
+  "Short SL": "Short SL: 50900",
+  "Long TP": "Long TP: 51250",
+  "Short TP": "Short TP: 48800",
+  "MacroInfluence": "Mixed: rising US CPI supports risk assets (bullish) while high Fed rate is a headwind; net mildly bullish for equities.",
+  "NewsImpact": "Mostly neutral headlines; notable negative geopolitical/business item (China vs Japan) is mildly bearish for Japan, otherwise limited market-moving news.",
+  "Notes": "Long on reclaim above 50250 with SL below recent swing low; short only on rejection into the 50550 area (stop above the spike highs). Keep position size small and manage intraday volatility.",
+  "Timestamp": "2025-11-20 13:23:28"
 }
