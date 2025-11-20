@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight Bearish",
-  "Long Entry": "Long Entry: 1.30850",
-  "Short Entry": "Short Entry: 1.30400",
-  "Long SL": "Long SL: 1.30450",
-  "Short SL": "Short SL: 1.30800",
-  "Long TP": "Long TP: 1.31350",
-  "Short TP": "Short TP: 1.29800",
-  "MacroInfluence": "Rising US CPI and high Fed rate support a stronger USD, putting downside bias on GBPUSD.",
-  "NewsImpact": "Recent headlines show sterling easing after UK inflation; overall news flow is neutral-to-dollar-bullish.",
-  "Notes": "Prefer short on clean breakdown below 1.3040; long only on decisive break above 1.3085. Manage size for ~1:1.25 RR on long and ~1:2.0 RR on short. Watch London session for volatility.",
-  "Timestamp": "2025-11-20 13:00:00"
+  "Bias": "Neutral-to-bullish",
+  "Long Entry": "Long Entry: 1.30890",
+  "Short Entry": "Short Entry: 1.30420",
+  "Long SL": "Long SL: 1.30400",
+  "Short SL": "Short SL: 1.30900",
+  "Long TP": "Long TP: 1.31480",
+  "Short TP": "Short TP: 1.29700",
+  "MacroInfluence": "Mixed: US CPI rise supports USD (pressure on GBPUSD) but high Fed rate and USD/EUR imply some USD softness; net mixed-to-mildly-bullish for GBPUSD.",
+  "NewsImpact": "Mixed headlines with some risk-off tone and sterling easing after UK inflation — expect short-term volatility, watch risk sentiment.",
+  "Notes": "Take long on a clean breakout above resistance or short on a decisive break of support. Size to risk one stop. Monitor US data/Nvidia-related risk events; invalidate trade if price closes strongly opposite.",
+  "Timestamp": "2025-11-20 13:42:14"
 }
