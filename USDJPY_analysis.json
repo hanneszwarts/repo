@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly bullish (favor longs on breakout or dip-buy)",
-  "Long Entry": "Long Entry: 157.45",
-  "Short Entry": "Short Entry: 157.80",
-  "Long SL": "Long SL: 157.05",
-  "Short SL": "Short SL: 158.20",
-  "Long TP": "Long TP: 158.20",
-  "Short TP": "Short TP: 156.60",
-  "MacroInfluence": "Mixed: rising US CPI supports USD while a high Fed rate limits upside; overall tilt toward USD strength vs JPY.",
-  "NewsImpact": "Headlines show yen rout and talk of intervention — pushes volatility and upside for USDJPY but raises intervention risk near 160.",
-  "Notes": "Prefer confirmation: long on breakout above local highs or on pullback to 157.10–157.05 support; keep size small given intervention risk and manage stops tightly.",
-  "Timestamp": "2025-11-20 12:00:00"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 157.820",
+  "Short Entry": "Short Entry: 157.050",
+  "Long SL": "Long SL: 157.050",
+  "Short SL": "Short SL: 157.900",
+  "Long TP": "Long TP: 158.800",
+  "Short TP": "Short TP: 156.200",
+  "MacroInfluence": "Mixed: US CPI uptick supports USD (bullish USDJPY) while high Fed rate and USD softness cap upside.",
+  "NewsImpact": "Yen rout and intervention chatter creates volatility; global risk-off headlines give intermittent safe-haven flows into JPY.",
+  "Notes": "Trade only on confirmed breakout above 157.78 for long or breakdown below 157.10 for short; keep position size conservative and respect SL.",
+  "Timestamp": "2025-11-20 13:40:45"
 }
