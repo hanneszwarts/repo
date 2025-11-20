@@ -1,12 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 23220",
-  "Short Entry": "Short Entry: 23380",
-  "Long SL": "Long SL: 23100",
-  "Short SL": "Short SL: 23460",
-  "Long TP": "Long TP: 23500",
-  "Short TP": "Short TP: 23120",
-  "MacroInfluence": "Rising US CPI and a weaker USD are supportive for risk assets, while a high Fed rate is a headwind — net slight bullish tilt.",
-  "NewsImpact": "News flow is mixed but leans mildly positive for equities; weak US jobs data adds caution.",
-  "Notes": "Trade with position sizing to limit risk; long is a momentum buy above current price, short is a rejection at near-term resistance. Watch 23100 support and 23350-23380 resistance; avoid entries near major macro prints."
+  "Bias": "Neutral-Bullish",
+  "Long Entry": "Long Entry: 23450",
+  "Short Entry": "Short Entry: 23120",
+  "Long SL": "Long SL: 23320",
+  "Short SL": "Short SL: 23260",
+  "Long TP": "Long TP: 23700",
+  "Short TP": "Short TP: 22900",
+  "MacroInfluence": "Mixed: rising CPI and weak USD support equity upside, but elevated Fed rate is a headwind.",
+  "NewsImpact": "News flow is mostly neutral; earnings/tech rotation headlines add mild sector-specific volatility but no strong directional bias.",
+  "Notes": "Preferred plan: take long on confirmed breakout above recent highs (23450) with SL under breakout; take short only on clean breakdown below 23120. Keep position size limited and watch EU session for volatility.",
+  "Timestamp": "2025-11-20 12:00:00"
 }
