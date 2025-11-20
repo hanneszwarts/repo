@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral — watch breakouts: bullish above resistance, bearish below support",
-  "Long Entry": "Long Entry: 50380",
-  "Short Entry": "Short Entry: 48880",
-  "Long SL": "Long SL: 49900",
-  "Short SL": "Short SL: 49250",
-  "Long TP": "Long TP: 51050",
-  "Short TP": "Short TP: 48200",
-  "MacroInfluence": "Rising US CPI and weaker USD provide support for risk assets while a high Fed rate is a headwind — slight net bullish bias.",
-  "NewsImpact": "Mixed: China-Japan tensions are a negative for Japanese equities; other headlines mostly neutral — expect elevated volatility.",
-  "Notes": "Wait for a confirmed 1H close beyond entry before entering. Size to risk ≤1–2% equity, trail stops on follow-through, avoid entering into major news spikes.",
-  "Timestamp": "2025-11-20 13:23:58"
+  "Bias": "Neutral-Bearish",
+  "Long Entry": "Long Entry: 50050",
+  "Short Entry": "Short Entry: 50350",
+  "Long SL": "Long SL: 49500",
+  "Short SL": "Short SL: 50750",
+  "Long TP": "Long TP: 50650",
+  "Short TP": "Short TP: 49250",
+  "MacroInfluence": "Rising US CPI and a softer USD are supportive for equities, but the still-high Fed rate and inflation policy keep upside capped — net mixed, slight tailwind for risk assets.",
+  "NewsImpact": "Negative geopolitical headlines (China-Japan) and risk-off tech/AI concerns are pressuring Nikkei; overall short-term sentiment skewed risk-off.",
+  "Notes": "Wait for clear execution: long on hold above 50050 with SL at 49500; short if price rallies and rejects near 50350-50575 with tight SL. Manage position size for 1–3% risk and monitor volatility.",
+  "Timestamp": "2025-11-20 13:43:18"
 }
