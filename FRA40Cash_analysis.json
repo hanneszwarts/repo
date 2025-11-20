@@ -1,0 +1,13 @@
+{
+  "Bias": "Slightly Bearish",
+  "Long Entry": "Long Entry: 7970",
+  "Short Entry": "Short Entry: 8050",
+  "Long SL": "Long SL: 7900",
+  "Short SL": "Short SL: 8085",
+  "Long TP": "Long TP: 8055",
+  "Short TP": "Short TP: 7925",
+  "MacroInfluence": "Mixed: US CPI slightly higher (bullish for risk), but high Fed rate and rate-cut worries are bearish; modestly weak USD (EUR 1.153) gives a small tailwind.",
+  "NewsImpact": "Overall negative — tech-led selloff and headlines point to European weakness, raising downside risk near resistance.",
+  "Notes": "Trade confirmation required on 1H candle rejection/support hold. Size positions so SL aligns with risk tolerance. Prefer short at failed break above 8055; only go long if 7960–7975 support holds with momentum.",
+  "Timestamp": "2025-11-20 11:00:00"
+}
