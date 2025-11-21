@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 45800",
-  "Short Entry": "Short Entry: 47250",
-  "Long SL": "Long SL: 45400",
-  "Short SL": "Short SL: 47550",
-  "Long TP": "Long TP: 46850",
-  "Short TP": "Short TP: 45900",
-  "MacroInfluence": "CPI up is modestly bullish but a high Fed rate (4.09%) is a bearish headwind; net effect = mild downside pressure with episodic bullish lifts from weak USD/earnings.",
-  "NewsImpact": "Mixed: Nvidia earnings lift tech/futures (supportive) but headlines show continued volatility and risk-off episodes.",
-  "Notes": "Long only if support holds and reversal candle appears near 45750–45950. Short only on clear rejection or failed breakout at 47150–47350. Use strict risk management and size to risk ~1-2% per trade.",
-  "Timestamp": "2025-11-21 06:48:23"
+  "Bias": "Slight Bearish",
+  "Long Entry": "Long Entry: 45600",
+  "Short Entry": "Short Entry: 46250",
+  "Long SL": "Long SL: 45200",
+  "Short SL": "Short SL: 46850",
+  "Long TP": "Long TP: 46500",
+  "Short TP": "Short TP: 45100",
+  "MacroInfluence": "Rising CPI supports risk assets but a still-high Fed rate is a headwind; net macro is mixed with a slight bullish tilt from CPI.",
+  "NewsImpact": "Nvidia earnings are bullish for risk appetite but headlines show tech volatility — overall mixed short-term market sentiment.",
+  "Notes": "Prefer small intraday size on 1H TF. Long is a dip-buy; short is a retrace to resistance. Respect SLs and exit partial at TP.",
+  "Timestamp": "2025-11-21 08:51:33"
 }
