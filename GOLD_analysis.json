@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight Bearish",
-  "Long Entry": "Long Entry: 4060",
+  "Bias": "Neutral-Bullish",
+  "Long Entry": "Long Entry: 4070",
   "Short Entry": "Short Entry: 4025",
-  "Long SL": "Long SL: 4025",
-  "Short SL": "Short SL: 4075",
-  "Long TP": "Long TP: 4110",
-  "Short TP": "Short TP: 3975",
-  "MacroInfluence": "Mixed: rising CPI is supportive for gold but elevated Fed rate and USD strength limit upside.",
-  "NewsImpact": "News flow is neutral overall; no clear gold-specific catalysts.",
-  "Notes": "Trade breakouts only: use a buy-stop above 4060 or a sell-stop below ~4030 (entry 4025). Size to risk SLs; monitor US data and Fed comments.",
-  "Timestamp": "2025-11-21 14:38:21"
+  "Long SL": "Long SL: 4035",
+  "Short SL": "Short SL: 4055",
+  "Long TP": "Long TP: 4105",
+  "Short TP": "Short TP: 3980",
+  "MacroInfluence": "Rising US CPI and a modestly weak USD support gold; high Fed rate is a headwind — net tilt slightly bullish.",
+  "NewsImpact": "Headlines largely neutral; crypto volatility could increase safe-haven demand for gold (mildly bullish).",
+  "Notes": "Use confirmed hourly close for entries. Long on clean breakout above 4070 with SL at 4035. Short only on decisive break below 4025 with SL at 4055. Keep position size small and watch macro prints.",
+  "Timestamp": "2025-11-21 14:45:37"
 }
