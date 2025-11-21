@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral (slight bullish tilt)",
-  "Long Entry": "Long Entry: 49250",
+  "Bias": "Slightly Bearish",
+  "Long Entry": "Long Entry: 48950",
   "Short Entry": "Short Entry: 48500",
-  "Long SL": "Long SL: 48700",
-  "Short SL": "Short SL: 49200",
-  "Long TP": "Long TP: 50200",
-  "Short TP": "Short TP: 47200",
-  "MacroInfluence": "Rising US CPI and weak USD support risk assets, but a high Fed rate limits upside — mixed macro with a slight bullish tilt.",
-  "NewsImpact": "Positive Asian equity sentiment from Nvidia earnings lifts risk appetite; other headlines largely neutral.",
-  "Notes": "Price is range-bound between ~48500-49250; take long on a clean breakout above 49250 or short on breakdown below 48500. Use tight size and risk management (risk <1-2% per trade).",
-  "Timestamp": "2025-11-21 08:55:09"
+  "Long SL": "Long SL: 48650",
+  "Short SL": "Short SL: 48850",
+  "Long TP": "Long TP: 49900",
+  "Short TP": "Short TP: 47650",
+  "MacroInfluence": "Mixed: rising US CPI provides some risk-on support, but a still-elevated Fed rate is a headwind for equities → net neutral-to-slightly bearish for JP225.",
+  "NewsImpact": "Headlines are largely neutral; US tech/earnings noise causing short-term volatility but no clear Japan-specific catalysts.",
+  "Notes": "One-shot breakout setups from the 1H consolidation. Long on clean breakout above ~48950 with volume confirmation; short on breakdown below ~48500. Keep size small and use stops as specified; reassess around macro prints.",
+  "Timestamp": "2025-11-21 16:59:54"
 }
