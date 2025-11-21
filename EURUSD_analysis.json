@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight Bearish",
-  "Long Entry": "Long Entry: 1.15470",
-  "Short Entry": "Short Entry: 1.15440",
-  "Long SL": "Long SL: 1.15140",
-  "Short SL": "Short SL: 1.16000",
-  "Long TP": "Long TP: 1.15850",
-  "Short TP": "Short TP: 1.15050",
-  "MacroInfluence": "US CPI rising and a relatively high Fed rate support USD strength, exerting bearish pressure on EURUSD despite short-term technical congestion.",
-  "NewsImpact": "Mixed headlines; several items pointing to dollar strength (gold down, rupee weakness) — overall neutral-to-slight USD-bullish bias.",
-  "Notes": "Use breakout candle confirmation for the long (above 1.15470) or a clear rejection wick for the short (near 1.1544). Keep size small, respect stops, monitor US data that could accelerate moves.",
-  "Timestamp": "2025-11-21 06:50:27"
+  "Bias": "Neutral-to-Slight-Bullish",
+  "Long Entry": "Long Entry: 1.15560",
+  "Short Entry": "Short Entry: 1.15080",
+  "Long SL": "Long SL: 1.15260",
+  "Short SL": "Short SL: 1.15350",
+  "Long TP": "Long TP: 1.15960",
+  "Short TP": "Short TP: 1.14650",
+  "MacroInfluence": "Mixed: rising US CPI nudges USD weaker (EUR supportive) but elevated Fed rate keeps USD anchored; net slightly bullish for EUR but balanced.",
+  "NewsImpact": "Headlines are mostly neutral-to-mixed with no clear EUR-specific catalyst; sentiment slightly mixed for USD.",
+  "Notes": "Range-bound hourly structure with resistance near 1.1553 and support ~1.1510. Prefer breakout long above 1.1556 and momentum short on clean break below 1.1508. Use tight size/Risk 1-2% and monitor London/US data.",
+  "Timestamp": "2025-11-21 08:53:39"
 }
