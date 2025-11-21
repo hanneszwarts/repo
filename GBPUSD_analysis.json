@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bearish",
-  "Long Entry": "Long Entry: 1.31050",
-  "Short Entry": "Short Entry: 1.30700",
-  "Long SL": "Long SL: 1.30750",
-  "Short SL": "Short SL: 1.31000",
-  "Long TP": "Long TP: 1.31550",
-  "Short TP": "Short TP: 1.30000",
-  "MacroInfluence": "US CPI up and still-high Fed rates favor USD strength, applying modest bearish pressure to GBPUSD despite mixed FX flows.",
-  "NewsImpact": "Mixed headlines; risk-on equity flows supportive for risk currencies but dollar-strength headlines (gold down, rate bets) are net USD-bullish — neutral-to-slight USD bias.",
-  "Notes": "Use breakout long above 1.3105 with tight SL; consider short on rejection below 1.3070. Watch London session and any US data for volatility; size positions for 1:1.5+ R:R.",
-  "Timestamp": "2025-11-21 06:50:55"
+  "Bias": "Slight Bullish",
+  "Long Entry": "Long Entry: 1.311500",
+  "Short Entry": "Short Entry: 1.305000",
+  "Long SL": "Long SL: 1.307000",
+  "Short SL": "Short SL: 1.309500",
+  "Long TP": "Long TP: 1.317500",
+  "Short TP": "Short TP: 1.298000",
+  "MacroInfluence": "Mixed: higher US CPI supports USD (headwind for GBPUSD) but a softer USD/EUR and risk-on market tone provide modest support to GBPUSD — net slight bullish bias.",
+  "NewsImpact": "Mostly mixed headlines; Nvidia-driven risk-on lifts risk currencies (GBP), while negative US growth commentary and some global concerns temper gains.",
+  "Notes": "Enter above resistance for long or below support for short. Keep risk per trade controlled (1-2%). Monitor US data/Fed comments; invalidate if price strongly breaks opposite direction.",
+  "Timestamp": "2025-11-21 08:54:11"
 }
