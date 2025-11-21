@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 48950",
-  "Short Entry": "Short Entry: 48500",
-  "Long SL": "Long SL: 48650",
-  "Short SL": "Short SL: 48850",
-  "Long TP": "Long TP: 49900",
-  "Short TP": "Short TP: 47650",
-  "MacroInfluence": "Mixed: rising US CPI provides some risk-on support, but a still-elevated Fed rate is a headwind for equities → net neutral-to-slightly bearish for JP225.",
-  "NewsImpact": "Headlines are largely neutral; US tech/earnings noise causing short-term volatility but no clear Japan-specific catalysts.",
-  "Notes": "One-shot breakout setups from the 1H consolidation. Long on clean breakout above ~48950 with volume confirmation; short on breakdown below ~48500. Keep size small and use stops as specified; reassess around macro prints.",
-  "Timestamp": "2025-11-21 16:59:54"
+  "Bias": "Neutral — range-bound between ~48,600 support and ~49,750 resistance; watch breakout for directional conviction",
+  "Long Entry": "Long Entry: 48720",
+  "Short Entry": "Short Entry: 49750",
+  "Long SL": "Long SL: 48450",
+  "Short SL": "Short SL: 50050",
+  "Long TP": "Long TP: 49350",
+  "Short TP": "Short TP: 49000",
+  "MacroInfluence": "Mixed: rising US CPI is mildly bullish for risk assets but high Fed rate is a headwind — net neutral-to-mildly-bullish",
+  "NewsImpact": "Mostly neutral headlines; US tech/earnings volatility present but no clear Japan-specific catalyst",
+  "Notes": "H1 setups. Prefer confirmation (rejection or bounce) at entry levels. Use proper position sizing and trail stops; invalidate long on clean breakdown below ~48,300 or short on clean breakout above ~50,200",
+  "Timestamp": "2025-11-21 17:03:59"
 }
