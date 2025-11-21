@@ -1,12 +1,13 @@
 {
-  "Bias": "Neutral - slight bullish tilt",
-  "Long Entry": "Long Entry: 23395",
-  "Short Entry": "Short Entry: 23350",
-  "Long SL": "Long SL: 23240",
-  "Short SL": "Short SL: 23430",
-  "Long TP": "Long TP: 23620",
-  "Short TP": "Short TP: 23080",
-  "MacroInfluence": "Mixed: higher US CPI is equity-supportive while a high Fed rate is a headwind; weak USD gives modest tailwind to European equities.",
-  "NewsImpact": "Mixed/neutral headlines; tech/AI worries add volatility but no clear directional catalyst for DAX.",
-  "Notes": "Prefer 1H confirmation (close beyond level) before entry. Long on clean breakout above 23380–23400; short on rejection at 23350–23380. Keep position size to respect SL; monitor macro prints and overnight gaps."
+  "Bias": "Neutral-Bullish",
+  "Long Entry": "Long Entry: 4050.00",
+  "Short Entry": "Short Entry: 4090.00",
+  "Long SL": "Long SL: 4036.00",
+  "Short SL": "Short SL: 4110.00",
+  "Long TP": "Long TP: 4090.00",
+  "Short TP": "Short TP: 4050.00",
+  "MacroInfluence": "CPI uptick supports gold (bullish) but elevated Fed rate and a firmer dollar cap upside — mixed, slight bullish tilt.",
+  "NewsImpact": "Recent headlines show dollar strength and pared rate-cut bets weighing on gold; overall news bias mildly negative for near-term rallies.",
+  "Notes": "Trade 1H: Long on dip to established support ~4050 with SL below prior low; Short on rejection/resistance ~4090-4100. Maintain tight risk control and monitor USD/CPI updates.",
+  "Timestamp": "2025-11-21 06:07:44"
 }
