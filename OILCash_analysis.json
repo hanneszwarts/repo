@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 60.10",
-  "Short Entry": "Short Entry: 58.95",
-  "Long SL": "Long SL: 59.30",
-  "Short SL": "Short SL: 59.50",
-  "Long TP": "Long TP: 61.00",
-  "Short TP": "Short TP: 58.20",
-  "MacroInfluence": "Rising US CPI and a softer USD support oil upside while a high Fed rate is a bearish headwind — net slightly bullish bias.",
-  "NewsImpact": "WTI tumble/oversupply headlines are bearish short-term; most other headlines neutral.",
-  "Notes": "Only take the side that triggers: buy breakout above 60.10 with SL 59.30, or short breakdown below 58.95 with SL 59.50. Keep position size small and respect stops.",
-  "Timestamp": "2025-11-20 15:46:23"
+  "Bias": "Slightly Bearish (short bias on continuation, watch for reversal confirmation)",
+  "Long Entry": "Long Entry: 58.60",
+  "Short Entry": "Short Entry: 57.95",
+  "Long SL": "Long SL: 57.80",
+  "Short SL": "Short SL: 59.00",
+  "Long TP": "Long TP: 59.80",
+  "Short TP": "Short TP: 56.20",
+  "MacroInfluence": "Mixed — US CPI showing month-over-month rise supports oil; high Fed rate and demand pressure are bearish; USD slightly weak which is modestly bullish.",
+  "NewsImpact": "Mixed headlines: US inventory draw lends support but oversupply/shale concerns persist — net slightly bullish but inconclusive.",
+  "Notes": "1H setups only. Short on clean break below recent low (entry 57.95). Long only on confirmed rejection and reclaim of 58.60. Use defined SLs, scale position sizing, keep risk <=1-2% per trade, monitor inventory/news releases.",
+  "Timestamp": "2025-11-21 06:50:00"
 }
