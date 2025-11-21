@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-bullish",
-  "Long Entry": "Long Entry: 1.15350",
-  "Short Entry": "Short Entry: 1.15080",
-  "Long SL": "Long SL: 1.15100",
-  "Short SL": "Short SL: 1.15350",
-  "Long TP": "Long TP: 1.15650",
-  "Short TP": "Short TP: 1.14700",
-  "MacroInfluence": "Mixed: US CPI showing upside supports EUR via USD weakness, but elevated Fed rate is a USD-positive headwind.",
-  "NewsImpact": "Mostly cautious/mixed headlines and risk-off commentary — potential for short-term volatility and slight downside bias.",
-  "Notes": "Watch 1.1542 area as key resistance; prefer long on clean hourly breakout above 1.1535 or short on failure/breakdown below ~1.1510. Use strict risk management and size to keep risk small.",
-  "Timestamp": "2025-11-20 13:41:39"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 1.15450",
+  "Short Entry": "Short Entry: 1.15200",
+  "Long SL": "Long SL: 1.15250",
+  "Short SL": "Short SL: 1.15450",
+  "Long TP": "Long TP: 1.15850",
+  "Short TP": "Short TP: 1.14800",
+  "MacroInfluence": "Mixed: higher US CPI supports EUR upside (weaker USD) but elevated Fed rates keep USD supported; net slight bullish bias.",
+  "NewsImpact": "Headlines largely mixed/neutral with some dollar-supporting pieces (gold down/dollar gains) that could cap upside.",
+  "Notes": "1H view: recent range 1.151–1.1543. Prefer long on clean breakout above 1.1545 (SL below 1.1525) or short on failure/break below 1.1520. Use tight risk management and respect stops.",
+  "Timestamp": "2025-11-21 06:27:01"
 }
