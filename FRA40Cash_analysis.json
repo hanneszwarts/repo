@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 8005",
-  "Short Entry": "Short Entry: 8048",
-  "Long SL": "Long SL: 7950",
-  "Short SL": "Short SL: 8075",
-  "Long TP": "Long TP: 8065",
-  "Short TP": "Short TP: 7970",
-  "MacroInfluence": "Mixed — rising US CPI is supportive for risk but high Fed rate and rate-cut worries create downside pressure.",
-  "NewsImpact": "Tech/AI-led selloff and rate concerns weighing on European shares; some positive corporate buybacks but overall negative tilt.",
-  "Notes": "Trade size to risk tolerance; prefer short on rejection into 8040–8050 resistance; long only on clear bounce above 8005 with SL at 7950; target/stop risk-reward ~1:1–3:1.",
-  "Timestamp": "2025-11-21 08:52:26"
+  "Bias": "Neutral-to-Bullish",
+  "Long Entry": "Long Entry: 8050",
+  "Short Entry": "Short Entry: 7920",
+  "Long SL": "Long SL: 8000",
+  "Short SL": "Short SL: 8000",
+  "Long TP": "Long TP: 8150",
+  "Short TP": "Short TP: 7840",
+  "MacroInfluence": "Rising CPI is mildly bullish for equities while a high Fed rate is a headwind — overall slightly supportive risk tone.",
+  "NewsImpact": "Positive Nvidia-driven headlines are lifting risk sentiment in European markets, providing upside bias.",
+  "Notes": "Prefer a breakout above 8050 for a long; failure of the 7950–7920 zone triggers the short. Use tight risk management and watch upcoming jobs data.",
+  "Timestamp": "2025-11-21 16:58:50"
 }
