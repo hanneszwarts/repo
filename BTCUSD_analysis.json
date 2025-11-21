@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish",
-  "Long Entry": "Long Entry: 83550",
-  "Short Entry": "Short Entry: 80650",
-  "Long SL": "Long SL: 80300",
-  "Short SL": "Short SL: 82000",
-  "Long TP": "Long TP: 92000",
-  "Short TP": "Short TP: 76000",
-  "MacroInfluence": "Rising CPI supports risk assets while a still-elevated Fed rate limits upside — net mildly bullish for BTC.",
-  "NewsImpact": "Mixed headlines: some positive ETF/adoption signals but price weakness and coverage of losing $100k add caution.",
-  "Notes": "Trade plan: long on clear breakout above 83.5k, short on breakdown below 80.7k; use strict stops, size for R:R ~2.5–3+, monitor Fed/CPI and liquidity.",
-  "Timestamp": "2025-11-21 15:02:13"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 85400",
+  "Short Entry": "Short Entry: 82800",
+  "Long SL": "Long SL: 82000",
+  "Short SL": "Short SL: 85100",
+  "Long TP": "Long TP: 90000",
+  "Short TP": "Short TP: 79000",
+  "MacroInfluence": "CPI up (mild bullish) vs high Fed rate (bearish); USD neutral → net slightly bullish bias",
+  "NewsImpact": "Mostly positive crypto/tech and institutional flow headlines with one regulatory negative — overall mildly positive",
+  "Notes": "Levels based on recent 1H highs/lows (85.3k resistance, 82.1k support). Watch for false breakouts; size to preferred risk (1-2%).",
+  "Timestamp": "2025-11-21 17:04:16"
 }
