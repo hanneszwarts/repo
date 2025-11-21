@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish (favor breakout longs but watch for failed-retest shorts)",
-  "Long Entry": "Long Entry: 4086",
-  "Short Entry": "Short Entry: 4025",
-  "Long SL": "Long SL: 4058",
+  "Bias": "Neutral-to-Bullish",
+  "Long Entry": "Long Entry: 4055",
+  "Short Entry": "Short Entry: 4020",
+  "Long SL": "Long SL: 4015",
   "Short SL": "Short SL: 4060",
-  "Long TP": "Long TP: 4125",
-  "Short TP": "Short TP: 3975",
-  "MacroInfluence": "Rising US CPI (0.31% MoM) and a relatively weak USD are bullish for gold; elevated Fed rate is a headwind — net slightly bullish.",
-  "NewsImpact": "Headlines are mostly neutral; a negative mention of a gold-backed stablecoin is marginally bearish but unlikely to move spot materially.",
-  "Notes": "Prefer a breakout long above 4085 with stop below the 4060 swing. Alternatively short a breakdown through ~4030 (entry 4025) targeting lower support. Size to risk <=1-2% capital and monitor USD/CPI prints.",
-  "Timestamp": "2025-11-21 10:36:30"
+  "Long TP": "Long TP: 4120",
+  "Short TP": "Short TP: 3970",
+  "MacroInfluence": "Mixed: rising CPI supportive for gold, but high Fed rate is constraining; slight USD weakness gives mild bullish tilt.",
+  "NewsImpact": "Headlines are mostly neutral/retail-focused and not market-moving for gold.",
+  "Notes": "Trade the breakout/retest. Use stops as above, position-size to risk <1-2% equity, watch USD and macro prints for volatility.",
+  "Timestamp": "2025-11-21 11:14:48"
 }
