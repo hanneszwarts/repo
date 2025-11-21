@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish (short-term downtrend on 1H)",
-  "Long Entry": "Long Entry: 88050",
+  "Bias": "Slightly Bearish",
+  "Long Entry": "Long Entry: 87350",
   "Short Entry": "Short Entry: 85350",
-  "Long SL": "Long SL: 86700",
+  "Long SL": "Long SL: 86300",
   "Short SL": "Short SL: 86600",
-  "Long TP": "Long TP: 92000",
+  "Long TP": "Long TP: 91000",
   "Short TP": "Short TP: 82000",
-  "MacroInfluence": "Rising CPI and weak USD are mildly bullish for BTC, but a still-elevated Fed rate is a headwind → mixed overall.",
-  "NewsImpact": "Mostly mixed-to-negative headlines (equity weakness, legal/crypto concerns) increase downside risk; institutional volume stories neutral.",
-  "Notes": "Prefer confirmation (volume or 1H retest) before entry; keep risk ~1-2% per trade and adjust size to SL distance; bias favors shorts while price remains below 88-92k resistance.",
-  "Timestamp": "2025-11-21 06:51:22"
+  "MacroInfluence": "Mixed: rising CPI and mild USD weakness are supportive, but high Fed rate is a headwind—net slightly bullish macro but price action remains bearish.",
+  "NewsImpact": "Mixed: positive risk sentiment from Nvidia/markets but Bitcoin-specific headlines show a large drawdown; overall neutral-to-mixed for short-term price.",
+  "Notes": "Short preferred while price stays below 87350; use tight SLs and size to risk ~1-2% equity. Long only on clear breakout above 87350 with volume confirmation; short on failure/break below 85400 area.",
+  "Timestamp": "2025-11-21 08:54:44"
 }
