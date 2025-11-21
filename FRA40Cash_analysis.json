@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 7985",
-  "Short Entry": "Short Entry: 8055",
-  "Long SL": "Long SL: 7935",
-  "Short SL": "Short SL: 8085",
-  "Long TP": "Long TP: 8085",
-  "Short TP": "Short TP: 7970",
-  "MacroInfluence": "Rising US CPI supports risk assets but high Fed rate and tech valuation concerns keep a mild downward pressure.",
-  "NewsImpact": "Tech/AI-led selloff and negative European sentiment increase downside risk in the near term.",
-  "Notes": "1H setups only: long on support bounce (~7947–7985), short on rejection at resistance (~8050–8060). Keep risk per trade limited, adjust sizes if volatility rises.",
-  "Timestamp": "2025-11-20 15:57:36"
+  "Bias": "Slightly Bearish — prefer short at clear resistance while only buying into defined support on pullback",
+  "Long Entry": "Long Entry: 7930",
+  "Short Entry": "Short Entry: 8043",
+  "Long SL": "Long SL: 7890",
+  "Short SL": "Short SL: 8065",
+  "Long TP": "Long TP: 8040",
+  "Short TP": "Short TP: 7925",
+  "MacroInfluence": "Rising US CPI offers some bullish tailwind, but high Fed rate and tech-led risk-off pressure tilt the macro picture slightly bearish for European equities.",
+  "NewsImpact": "Recent headlines show tech earnings and rate concerns driving a selloff in risk assets; overall news tone is cautious/negative for markets.",
+  "Notes": "Levels based on recent 11/19-11/20 highs and 11/18-11/19 support. Long offers ~2.7R, short offers higher R; keep size small, trail stop if price moves favorably, watch US session and any FT/ECB headlines.",
+  "Timestamp": "2025-11-21 06:49:09"
 }
