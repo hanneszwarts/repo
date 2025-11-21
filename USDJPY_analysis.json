@@ -1,13 +1,13 @@
 {
   "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 157.820",
-  "Short Entry": "Short Entry: 157.050",
-  "Long SL": "Long SL: 157.050",
-  "Short SL": "Short SL: 157.900",
-  "Long TP": "Long TP: 158.800",
-  "Short TP": "Short TP: 156.200",
-  "MacroInfluence": "Mixed: US CPI uptick supports USD (bullish USDJPY) while high Fed rate and USD softness cap upside.",
-  "NewsImpact": "Yen rout and intervention chatter creates volatility; global risk-off headlines give intermittent safe-haven flows into JPY.",
-  "Notes": "Trade only on confirmed breakout above 157.78 for long or breakdown below 157.10 for short; keep position size conservative and respect SL.",
-  "Timestamp": "2025-11-20 13:40:45"
+  "Long Entry": "Long Entry: 157.75",
+  "Short Entry": "Short Entry: 157.00",
+  "Long SL": "Long SL: 157.05",
+  "Short SL": "Short SL: 157.95",
+  "Long TP": "Long TP: 158.50",
+  "Short TP": "Short TP: 156.20",
+  "MacroInfluence": "Rising US CPI and a still-high Fed rate support the USD vs JPY, skewing bias bullish.",
+  "NewsImpact": "Recent headlines point to a weaker yen / stronger dollar (rate-cut bets receding, risk-on flows), supporting upside.",
+  "Notes": "Trade confirmation on 1H close above/below entries; keep position sizing small and respect SL; watch for volatility around US data.",
+  "Timestamp": "2025-11-21 06:49:32"
 }
