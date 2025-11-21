@@ -1,13 +1,13 @@
 {
   "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 87350",
-  "Short Entry": "Short Entry: 85350",
-  "Long SL": "Long SL: 86300",
-  "Short SL": "Short SL: 86600",
-  "Long TP": "Long TP: 91000",
-  "Short TP": "Short TP: 82000",
-  "MacroInfluence": "Mixed: rising CPI and mild USD weakness are supportive, but high Fed rate is a headwind—net slightly bullish macro but price action remains bearish.",
-  "NewsImpact": "Mixed: positive risk sentiment from Nvidia/markets but Bitcoin-specific headlines show a large drawdown; overall neutral-to-mixed for short-term price.",
-  "Notes": "Short preferred while price stays below 87350; use tight SLs and size to risk ~1-2% equity. Long only on clear breakout above 87350 with volume confirmation; short on failure/break below 85400 area.",
-  "Timestamp": "2025-11-21 08:54:44"
+  "Long Entry": "Long Entry: 84200",
+  "Short Entry": "Short Entry: 81500",
+  "Long SL": "Long SL: 80700",
+  "Short SL": "Short SL: 84500",
+  "Long TP": "Long TP: 90000",
+  "Short TP": "Short TP: 76000",
+  "MacroInfluence": "Rising CPI is a bullish long-term input but high Fed rates and tighter policy create near-term headwinds—net slightly bearish on short horizons.",
+  "NewsImpact": "Mixed headlines: some institutional/ETF optimism and blockchain investment news, but market commentary notes BTC losing $100K support—short-term cautious.",
+  "Notes": "H1 chart shows sharp decline from ~95k to ~82-83k then consolidation. Trade only on trigger with volume confirmation. Keep position size small and target ≥2:1 R:R where possible.",
+  "Timestamp": "2025-11-21 15:01:47"
 }
