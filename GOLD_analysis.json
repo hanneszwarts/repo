@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 4078.00",
-  "Short Entry": "Short Entry: 4025.00",
-  "Long SL": "Long SL: 4035.00",
-  "Short SL": "Short SL: 4070.00",
-  "Long TP": "Long TP: 4108.00",
-  "Short TP": "Short TP: 3975.00",
-  "MacroInfluence": "Rising CPI supports gold (inflation hedge) while a still-high Fed rate is a headwind; net slightly bullish bias.",
-  "NewsImpact": "General news flow is mixed-to-mildly-positive for risk assets; no direct gold catalysts—neutral overall.",
-  "Notes": "Trade breakout confirmation only; keep risk small (SL sizes ~40–45 ticks). Prefer long on break above resistance 4078, short on break below 4025.",
+  "Bias": "Neutral-Bullish (waiting for breakout confirmation)",
+  "Long Entry": "Long Entry: 4085",
+  "Short Entry": "Short Entry: 4020",
+  "Long SL": "Long SL: 4055",
+  "Short SL": "Short SL: 4050",
+  "Long TP": "Long TP: 4120",
+  "Short TP": "Short TP: 3970",
+  "MacroInfluence": "Rising US CPI (0.31% MoM) is bullish for gold, but a still-high Fed rate (4.09%) is a headwind — net slight bullish bias.",
+  "NewsImpact": "News flow is mixed-to-neutral with no major risk-off headlines; limited immediate impact on gold.",
+  "Notes": "Trade breakouts only with volume confirmation. Long above resistance ~4085; short on breakdown below support ~4020. Manage position size to risk ~30 points.",
   "Timestamp": "2025-11-21 15:27:19"
 }
