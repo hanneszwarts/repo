@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish (range-bound with downside preference)",
-  "Long Entry": "Long Entry: 45950",
-  "Short Entry": "Short Entry: 46380",
-  "Long SL": "Long SL: 45780",
-  "Short SL": "Short SL: 46550",
-  "Long TP": "Long TP: 46350",
-  "Short TP": "Short TP: 45920",
-  "MacroInfluence": "Mixed: rising CPI and a weaker USD support equities, but an elevated Fed rate caps upside — neutral-to-dovish pressure overall.",
-  "NewsImpact": "Mixed headlines: Nvidia/tech optimism provides upside bias while Dow profit-taking and macro caution keep sentiment subdued.",
-  "Notes": "Prefer limit entries; wait for clear rejection or confirmation at levels. Use strict risk management, reduce size into news/events.",
-  "Timestamp": "2025-11-20 13:39:21"
+  "Bias": "Slightly Bearish",
+  "Long Entry": "Long Entry: 45800",
+  "Short Entry": "Short Entry: 47250",
+  "Long SL": "Long SL: 45400",
+  "Short SL": "Short SL: 47550",
+  "Long TP": "Long TP: 46850",
+  "Short TP": "Short TP: 45900",
+  "MacroInfluence": "CPI up is modestly bullish but a high Fed rate (4.09%) is a bearish headwind; net effect = mild downside pressure with episodic bullish lifts from weak USD/earnings.",
+  "NewsImpact": "Mixed: Nvidia earnings lift tech/futures (supportive) but headlines show continued volatility and risk-off episodes.",
+  "Notes": "Long only if support holds and reversal candle appears near 45750–45950. Short only on clear rejection or failed breakout at 47150–47350. Use strict risk management and size to risk ~1-2% per trade.",
+  "Timestamp": "2025-11-21 06:48:23"
 }
