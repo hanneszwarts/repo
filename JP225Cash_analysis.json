@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 49500",
-  "Short Entry": "Short Entry: 48450",
+  "Bias": "Neutral (slight bullish tilt)",
+  "Long Entry": "Long Entry: 49250",
+  "Short Entry": "Short Entry: 48500",
   "Long SL": "Long SL: 48700",
-  "Short SL": "Short SL: 48950",
-  "Long TP": "Long TP: 50350",
-  "Short TP": "Short TP: 47800",
-  "MacroInfluence": "Mixed — rising US CPI and Japan stimulus support risk assets, but high Fed rate is a bearish headwind; overall cautious.",
-  "NewsImpact": "Mostly positive domestic/Japan headlines (stimulus) but global risk-off and volatility remain — watch headlines.",
-  "Notes": "Set orders as breakouts: long above near resistance, short on breakdown of support. Use position sizing and strict stops; avoid trading into major US data.",
-  "Timestamp": "2025-11-21 06:51:49"
+  "Short SL": "Short SL: 49200",
+  "Long TP": "Long TP: 50200",
+  "Short TP": "Short TP: 47200",
+  "MacroInfluence": "Rising US CPI and weak USD support risk assets, but a high Fed rate limits upside — mixed macro with a slight bullish tilt.",
+  "NewsImpact": "Positive Asian equity sentiment from Nvidia earnings lifts risk appetite; other headlines largely neutral.",
+  "Notes": "Price is range-bound between ~48500-49250; take long on a clean breakout above 49250 or short on breakdown below 48500. Use tight size and risk management (risk <1-2% per trade).",
+  "Timestamp": "2025-11-21 08:55:09"
 }
