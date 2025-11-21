@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish (range-breakout bias)",
-  "Long Entry": "Long Entry: 23460",
-  "Short Entry": "Short Entry: 23150",
-  "Long SL": "Long SL: 23320",
-  "Short SL": "Short SL: 23340",
-  "Long TP": "Long TP: 23680",
-  "Short TP": "Short TP: 22900",
-  "MacroInfluence": "Rising US CPI supports risk assets, weak USD is mildly bullish; high Fed rate is a headwind — overall mixed but slightly bullish.",
-  "NewsImpact": "Mixed headlines (inflation, credit/AI risk and regional data) produce two-way flows; no single strong directional catalyst.",
-  "Notes": "Trade only on confirmed breakout/breakdown. Keep position size small, aim for ~1:2–1:3 R:R, move SL to breakeven if price moves favorably.",
-  "Timestamp": "2025-11-20 13:38:54"
+  "Bias": "Slight Bullish",
+  "Long Entry": "Long Entry: 23485",
+  "Short Entry": "Short Entry: 23110",
+  "Long SL": "Long SL: 23340",
+  "Short SL": "Short SL: 23260",
+  "Long TP": "Long TP: 23750",
+  "Short TP": "Short TP: 22750",
+  "MacroInfluence": "Rising US CPI and a weaker USD support risk assets, but elevated Fed rate (4.09%) caps upside — mixed with slight bullish tilt.",
+  "NewsImpact": "Mixed headlines; tech/indices optimism and foreign inflows provide upside bias while valuation concerns and selective negatives create caution.",
+  "Notes": "Key levels: resistance ~23480 and support ~23130. Use proper position sizing, avoid trading into major news, prefer breakout long above 23485 or short on confirmed breakdown below 23110.",
+  "Timestamp": "2025-11-21 06:47:57"
 }
