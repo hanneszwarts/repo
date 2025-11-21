@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bearish",
-  "Long Entry": "Long Entry: 58.35",
-  "Short Entry": "Short Entry: 59.90",
-  "Long SL": "Long SL: 57.75",
-  "Short SL": "Short SL: 60.50",
-  "Long TP": "Long TP: 59.50",
-  "Short TP": "Short TP: 58.30",
-  "MacroInfluence": "Rising US CPI supports oil upside; high Fed rate and mixed USD temper rally — net neutral to slightly bullish macro influence.",
-  "NewsImpact": "No major oil-specific headlines; broader market news mixed/neutral with some positive equity sentiment — limited direct impact on crude.",
-  "Notes": "Plan: prefer limit/confirmation entries. Long on bounce at support (58.35) with tight SL; short on rejection at resistance (59.90). Keep position sizing to manage risk and watch USD and inventory/news catalysts.",
-  "Timestamp": "2025-11-21 08:53:15"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 58.70",
+  "Short Entry": "Short Entry: 57.40",
+  "Long SL": "Long SL: 57.20",
+  "Short SL": "Short SL: 58.40",
+  "Long TP": "Long TP: 60.30",
+  "Short TP": "Short TP: 56.00",
+  "MacroInfluence": "Rising US CPI supports oil demand (bullish) but a high Fed rate is a headwind; net slightly bullish near-term.",
+  "NewsImpact": "Mixed headlines; no major supply shock — geopolitics/energy stories neutral to mildly supportive.",
+  "Notes": "Prefer 1H close confirmation for entries; keep position size tight given choppy action and use stated SLs.",
+  "Timestamp": "2025-11-21 15:30:08"
 }
