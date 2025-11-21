@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 23490",
-  "Short Entry": "Short Entry: 23460",
-  "Long SL": "Long SL: 23300",
-  "Short SL": "Short SL: 23560",
-  "Long TP": "Long TP: 23850",
-  "Short TP": "Short TP: 23120",
-  "MacroInfluence": "Mixed — rising CPI and a weaker USD support equities (bullish), while a high Fed rate is a moderating/negative factor.",
-  "NewsImpact": "Mostly neutral-to-mildly positive — Nvidia strength and select buybacks provide risk-on bias; other headlines neutral.",
-  "Notes": "Use 1H close confirmation for entries. Long on clean breakout above recent high (23479); short on rejection at resistance. Manage size to respect SL and avoid trading through major macro releases.",
-  "Timestamp": "2025-11-21 08:51:09"
+  "Bias": "Slight bullish bias",
+  "Long Entry": "Long Entry: 23270",
+  "Short Entry": "Short Entry: 23110",
+  "Long SL": "Long SL: 23140",
+  "Short SL": "Short SL: 23260",
+  "Long TP": "Long TP: 23450",
+  "Short TP": "Short TP: 22950",
+  "MacroInfluence": "Rising US CPI (0.31% MoM) gives mild bullish pressure; elevated Fed rate (~4.09%) caps upside — net slightly bullish.",
+  "NewsImpact": "Overall neutral newsflow; scattered positive crypto/tech headlines add small risk-on tilt.",
+  "Notes": "Wait hourly close confirmation and volume on breakout/failure; keep position size to risk <1-2% of equity.",
+  "Timestamp": "2025-11-21 16:28:47"
 }
