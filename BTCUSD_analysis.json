@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bullish",
-  "Long Entry": "Long Entry: 85550",
-  "Short Entry": "Short Entry: 83100",
-  "Long SL": "Long SL: 84100",
-  "Short SL": "Short SL: 84400",
-  "Long TP": "Long TP: 88000",
-  "Short TP": "Short TP: 80500",
-  "MacroInfluence": "Rising US CPI provides slight macro tailwind for BTC while a still-high Fed rate is a headwind; net bias mildly bullish.",
-  "NewsImpact": "Mixed-to-negative headlines: some institutional selling and extreme fear offset bullish long-term commentary; sentiment locally weak.",
-  "Notes": "Watch for confirmed break + volume. Long on clear break above 85.55k with stop below 84.1k; short on breakdown under 83.1k with stop above 84.4k. Risk 1-2% per trade, invalidate if price closes strongly opposite.",
-  "Timestamp": "2025-11-22 07:17:14"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 86850",
+  "Short Entry": "Short Entry: 86400",
+  "Long SL": "Long SL: 86250",
+  "Short SL": "Short SL: 86850",
+  "Long TP": "Long TP: 88200",
+  "Short TP": "Short TP: 85300",
+  "MacroInfluence": "Rising US CPI (0.31% MoM) supports BTC as an inflation hedge; Fed rate 4.09% is a moderating headwind, net mildly bullish.",
+  "NewsImpact": "Mixed — ETF listings and positive miner story vs. mining headwinds and muted institutional buying; overall neutral-to-slightly-negative sentiment.",
+  "Notes": "Plan: enter long on breakout above recent high or short on rejection at resistance. Keep strict risk management and size to SLs; avoid trading into major macro prints.",
+  "Timestamp": "2025-11-23 12:34:13"
 }
