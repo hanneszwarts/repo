@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 87450",
-  "Short Entry": "Short Entry: 86400",
-  "Long SL": "Long SL: 86300",
-  "Short SL": "Short SL: 87650",
-  "Long TP": "Long TP: 88800",
-  "Short TP": "Short TP: 84600",
-  "MacroInfluence": "Mixed macro: rising CPI mildly bullish for risk assets, but still-high Fed rate is a headwind; USD neutral.",
-  "NewsImpact": "Mixed headlines: security/hack stories weigh on sentiment while adoption/ETF/news provide pockets of positive crypto flow.",
-  "Notes": "1H setups only. Long on clean break above near-term resistance (87414-87970 area) with SL under recent swing low. Short on failure below support (~86600) targeting previous demand zone; manage size for wide SLs and watch volatility around macro prints.",
-  "Timestamp": "2025-11-24 06:52:20"
+  "Bias": "Neutral-Bullish",
+  "Long Entry": "Long Entry: 86500",
+  "Short Entry": "Short Entry: 87500",
+  "Long SL": "Long SL: 86000",
+  "Short SL": "Short SL: 88100",
+  "Long TP": "Long TP: 87900",
+  "Short TP": "Short TP: 85800",
+  "MacroInfluence": "Rising CPI is mildly bullish for BTC as an inflation hedge; elevated Fed rate is a headwind — net mixed, slight bullish tilt.",
+  "NewsImpact": "Mixed headlines: security/hack stories pressuring sentiment while adoption and ETF-related news provide offsets; overall slight negative bias.",
+  "Notes": "1H setups: buy pullback to 86500 with SL 86000 targeting 87900; alternatively short rejection near 87500 with SL 88100 targeting 85800. Watch volume and closes beyond SLs; size positions to risk tolerance.",
+  "Timestamp": "2025-11-24 06:53:00"
 }
