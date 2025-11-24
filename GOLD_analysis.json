@@ -1,13 +1,13 @@
 {
-  "Bias": "Slight bullish bias (range-bound, watch breakout/respect support)",
-  "Long Entry": "Long Entry: 4085.0",
-  "Short Entry": "Short Entry: 4025.0",
-  "Long SL": "Long SL: 4040.0",
-  "Short SL": "Short SL: 4060.0",
-  "Long TP": "Long TP: 4145.0",
-  "Short TP": "Short TP: 3970.0",
-  "MacroInfluence": "Mixed: rising CPI supports gold, high Fed rate is a headwind; USD neutral → modest bullish tilt",
-  "NewsImpact": "Market headlines neutral; no clear near-term news driver for gold",
-  "Notes": "1H setups: long on clean breakout above 4080–4090 cluster, stop below recent swing (4040). Short on decisive break under 4030, stop above 4060. Maintain strict size and R:R discipline.",
-  "Timestamp": "2025-11-24 08:13:31"
+  "Bias": "Slightly Bullish",
+  "Long Entry": "Long Entry: 4055",
+  "Short Entry": "Short Entry: 4085",
+  "Long SL": "Long SL: 4035",
+  "Short SL": "Short SL: 4110",
+  "Long TP": "Long TP: 4095",
+  "Short TP": "Short TP: 4030",
+  "MacroInfluence": "Rising US CPI supports gold (bullish) but high Fed rate is a headwind (bearish) — overall mixed with modest bullish tilt.",
+  "NewsImpact": "Headlines are mostly neutral/mildly positive tech/retail stories; no direct gold drivers — minimal immediate impact.",
+  "Notes": "Enter long on support-hold/confirmation near 4055; short on rejection at resistance ~4085. Keep size small, monitor 4020-4035 support and 4095-4105 resistance; use strict stops.",
+  "Timestamp": "2025-11-24 09:31:45"
 }
