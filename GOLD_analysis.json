@@ -1,13 +1,13 @@
 {
   "Bias": "Slightly Bullish",
   "Long Entry": "Long Entry: 4055",
-  "Short Entry": "Short Entry: 4085",
-  "Long SL": "Long SL: 4035",
-  "Short SL": "Short SL: 4110",
-  "Long TP": "Long TP: 4095",
-  "Short TP": "Short TP: 4030",
-  "MacroInfluence": "Rising US CPI supports gold (bullish) but high Fed rate is a headwind (bearish) — overall mixed with modest bullish tilt.",
-  "NewsImpact": "Headlines are mostly neutral/mildly positive tech/retail stories; no direct gold drivers — minimal immediate impact.",
-  "Notes": "Enter long on support-hold/confirmation near 4055; short on rejection at resistance ~4085. Keep size small, monitor 4020-4035 support and 4095-4105 resistance; use strict stops.",
-  "Timestamp": "2025-11-24 09:31:45"
+  "Short Entry": "Short Entry: 4095",
+  "Long SL": "Long SL: 4030",
+  "Short SL": "Short SL: 4116",
+  "Long TP": "Long TP: 4105",
+  "Short TP": "Short TP: 4055",
+  "MacroInfluence": "Rising US CPI is supportive for gold; high Fed rate and neutral USD limit upside.",
+  "NewsImpact": "Mixed headlines; India incentive mildly bullish for commodities but overall neutral newsflow.",
+  "Notes": "Long = buy-the-dip to structural support ~4055; Short = rejection/resistance near 4100. Manage size for ~2:1 R:R, tighten or trail stops on momentum.",
+  "Timestamp": "2025-11-24 11:59:30"
 }
