@@ -1,13 +1,13 @@
 {
-  "Bias": "Slightly Bullish",
-  "Long Entry": "Long Entry: 1.30750",
-  "Short Entry": "Short Entry: 1.31100",
-  "Long SL": "Long SL: 1.30550",
-  "Short SL": "Short SL: 1.31300",
-  "Long TP": "Long TP: 1.31450",
-  "Short TP": "Short TP: 1.30500",
-  "MacroInfluence": "US CPI up and a relatively high Fed rate support a firmer USD, creating modest downward bias on GBPUSD; overall macro is mixed so technicals drive setups.",
-  "NewsImpact": "News flow is mixed/neutral with no clear GBP-specific catalyst; risk sentiment slightly cautious which may limit strong directional moves.",
-  "Notes": "Long on pullback to support ~1.3075 with SL just below recent swing; Short on rejection at resistance ~1.3110 with SL above recent highs. Aim for >=2:1 R:R and avoid entering into major US data releases.",
-  "Timestamp": "2025-11-24 07:59:53"
+  "Bias": "Mild Bullish (intraday)",
+  "Long Entry": "Long Entry: 1.31200",
+  "Short Entry": "Short Entry: 1.31050",
+  "Long SL": "Long SL: 1.30700",
+  "Short SL": "Short SL: 1.31350",
+  "Long TP": "Long TP: 1.31800",
+  "Short TP": "Short TP: 1.30450",
+  "MacroInfluence": "Mixed: US CPI rising supports USD (pressure on GBPUSD) but recent price momentum on GBPUSD is upward; net slightly bullish price bias but macro risk leans USD-supportive.",
+  "NewsImpact": "Mostly neutral/mixed headlines with no major GBP-specific catalyst; overall market sentiment mildly cautious.",
+  "Notes": "Prefer confirmation for breakout long (clean hourly close above 1.3120). For short, look for rejection/candle reversal near resistance. Use position sizing to keep risk small; avoid trading into major economic releases.",
+  "Timestamp": "2025-11-24 08:03:40"
 }
