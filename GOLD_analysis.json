@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bullish",
+  "Bias": "Slightly Bullish",
   "Long Entry": "Long Entry: 4075",
   "Short Entry": "Short Entry: 4095",
-  "Long SL": "Long SL: 4045",
-  "Short SL": "Short SL: 4120",
+  "Long SL": "Long SL: 4035",
+  "Short SL": "Short SL: 4125",
   "Long TP": "Long TP: 4120",
-  "Short TP": "Short TP: 4015",
-  "MacroInfluence": "Rising US CPI supports gold as an inflation hedge; elevated Fed rate is a headwind — net mildly bullish.",
-  "NewsImpact": "Mixed headlines with slight risk-off/geopolitical flow supporting safe-haven demand.",
-  "Notes": "Long on confirmed breakout above 4075 with SL below 4045. Short on clear rejection near 4095 with SL above 4120. Manage position size and risk ~1-2%.",
-  "Timestamp": "2025-11-24 07:28:30"
+  "Short TP": "Short TP: 4000",
+  "MacroInfluence": "Rising US CPI supports gold as an inflation hedge (bullish) while a high Fed rate is a headwind — net slightly bullish inflation backdrop.",
+  "NewsImpact": "News flow is benign/neutral; no clear market-moving headlines for gold.",
+  "Notes": "Trade the breakout above 4075 for long or a rejection around 4095 for short. Keep position size small, use defined SLs, watch USD moves and CPI/Fed headlines.",
+  "Timestamp": "2025-11-24 08:09:48"
 }
