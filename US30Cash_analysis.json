@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-to-Bullish",
-  "Long Entry": "Long Entry: 46600",
-  "Short Entry": "Short Entry: 45700",
-  "Long SL": "Long SL: 45800",
-  "Short SL": "Short SL: 46250",
-  "Long TP": "Long TP: 47400",
-  "Short TP": "Short TP: 45000",
-  "MacroInfluence": "Rising CPI supports risk assets while a high Fed rate is a headwind; net mildly bullish bias.",
-  "NewsImpact": "Headlines are largely neutral with a slight positive tilt from Buffett/blue-chip stories; no clear market-moving news.",
-  "Notes": "Long on a breakout above recent resistance (~46536) with SL below the consolidation low; short on a breakdown below the 45757 swing low. Use disciplined sizing (risk <=1% equity), watch for macro prints and gap risk.",
-  "Timestamp": "2025-11-24 07:16:51"
+  "Bias": "Neutral-Bullish",
+  "Long Entry": "Long Entry: 46650",
+  "Short Entry": "Short Entry: 45850",
+  "Long SL": "Long SL: 46200",
+  "Short SL": "Short SL: 46350",
+  "Long TP": "Long TP: 47200",
+  "Short TP": "Short TP: 45200",
+  "MacroInfluence": "Rising CPI gives a mild bullish tailwind for equities, but a 4.09% Fed rate and neutral USD cap upside — mixed overall.",
+  "NewsImpact": "Headlines are largely neutral-to-slightly positive for equities; no single market-moving story identified.",
+  "Notes": "Long: wait for clear break and retest above 46650. Short: below 45850 breakdown with momentum. Use strict risk management and avoid trading into major data releases.",
+  "Timestamp": "2025-11-24 07:22:14"
 }
