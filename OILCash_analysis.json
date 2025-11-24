@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral-Bullish",
-  "Long Entry": "Long Entry: 58.20",
-  "Short Entry": "Short Entry: 58.70",
-  "Long SL": "Long SL: 57.60",
-  "Short SL": "Short SL: 59.20",
-  "Long TP": "Long TP: 59.40",
-  "Short TP": "Short TP: 57.40",
-  "MacroInfluence": "Mixed: CPI up (bullish for oil demand) vs. high Fed rate (bearish), slight net bullish bias from CPI",
-  "NewsImpact": "Mixed: Libya exploration news supports oil-sector sentiment (bullish); COP30 and climate focus are bearish for fossil fuels",
-  "Notes": "Prefer breakout confirmation + increased volume for entries; keep tight risk management (~1% account), reassess on CPI/Fed headlines",
-  "Timestamp": "2025-11-24 07:13:13"
+  "Bias": "Neutral-to-Slightly Bullish",
+  "Long Entry": "Long Entry: 58.35",
+  "Short Entry": "Short Entry: 57.45",
+  "Long SL": "Long SL: 57.40",
+  "Short SL": "Short SL: 58.30",
+  "Long TP": "Long TP: 60.10",
+  "Short TP": "Short TP: 56.20",
+  "MacroInfluence": "Rising US CPI provides upside bias for oil (inflation/demand); high Fed rate is a counterweight—net mildly bullish.",
+  "NewsImpact": "Mixed: Libya exploration news may increase supply (bearish) while geopolitical tensions add upside risk; overall neutral-to-cautious.",
+  "Notes": "Use breakout confirmation (volume/candle close) before entry; trade one setup at a time; size to a defined stop.",
+  "Timestamp": "2025-11-24 08:14:23"
 }
