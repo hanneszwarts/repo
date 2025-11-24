@@ -1,13 +1,13 @@
 {
-  "Bias": "Neutral — range-bound between ~48,600 support and ~49,750 resistance; watch breakout for directional conviction",
-  "Long Entry": "Long Entry: 48720",
-  "Short Entry": "Short Entry: 49750",
+  "Bias": "Neutral-Bearish (range-bound with slight downside bias)",
+  "Long Entry": "Long Entry: 48620",
+  "Short Entry": "Short Entry: 49450",
   "Long SL": "Long SL: 48450",
-  "Short SL": "Short SL: 50050",
-  "Long TP": "Long TP: 49350",
-  "Short TP": "Short TP: 49000",
-  "MacroInfluence": "Mixed: rising US CPI is mildly bullish for risk assets but high Fed rate is a headwind — net neutral-to-mildly-bullish",
-  "NewsImpact": "Mostly neutral headlines; US tech/earnings volatility present but no clear Japan-specific catalyst",
-  "Notes": "H1 setups. Prefer confirmation (rejection or bounce) at entry levels. Use proper position sizing and trail stops; invalidate long on clean breakdown below ~48,300 or short on clean breakout above ~50,200",
-  "Timestamp": "2025-11-21 17:03:59"
+  "Short SL": "Short SL: 49750",
+  "Long TP": "Long TP: 49450",
+  "Short TP": "Short TP: 48650",
+  "MacroInfluence": "Rising US CPI supports risk assets but elevated Fed rate leans bearish — mixed influence, slight headwind for sustained rallies.",
+  "NewsImpact": "Headlines are mostly neutral/mixed (geopolitical negotiation tone); no clear market-moving news identified.",
+  "Notes": "Prefer single active trade; long is buy-the-dip at support, short is fade at nearby resistance; manage risk and watch 50k round level for volatility.",
+  "Timestamp": "2025-11-24 06:54:30"
 }
